@@ -14,7 +14,7 @@
  #### Frequentist Inference:
  - [Part 1](https://github.com/pelusok/inferential_stats/blob/master/kp_inferential_stats.ipynb)
  - [Part 2](https://github.com/pelusok/inferential_stats/blob/master/kp_inferential_statistics_1b.ipynb)
- ##### Bootsrap Inference:
+ #### Bootsrap Inference:
  - [Part 1](https://github.com/pelusok/inferential_stats/blob/master/kp_inferential_statistics_2-Q.ipynb)
  
  
