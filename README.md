@@ -10,5 +10,9 @@
  3. Gain the ability to determine when a particular kind of statistical inference should be used over another.
  4. Understanding how hypothesis testing is applied in real-world applicatins such as A/B testing.
  
+ ### Projects
+ Frequentist Inference:
+ 
+ 
  Keywords: Confidence Intervals, Statistical Significance, Hypothesis Testing
 
