@@ -11,7 +11,11 @@
  4. Understanding how hypothesis testing is applied in real-world applicatins such as A/B testing.
  
  ### Projects
- Frequentist Inference:
+ #### Frequentist Inference:
+ - [Part 1](https://github.com/pelusok/inferential_stats/blob/master/kp_inferential_stats.ipynb)
+ - [Part 2](https://github.com/pelusok/inferential_stats/blob/master/kp_inferential_statistics_1b.ipynb)
+ ##### Bootsrap Inference:
+ - [Part 1](https://github.com/pelusok/inferential_stats/blob/master/kp_inferential_statistics_2-Q.ipynb)
  
  
  Keywords: Confidence Intervals, Statistical Significance, Hypothesis Testing
